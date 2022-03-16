@@ -1,0 +1,53 @@
+body {
+
+  color: rgb(34, 13, 228);
+  font-family: Georgia, serif;
+}
+
+.jumbotron {
+  background-image: url('/static/images/lab.jpg');
+  background-size: 100% 100%;
+  opacity: 0.9;
+  text-align: center;
+  color: rgb(46, 4, 161);
+  /* text-shadow: 3px 3px 8px blacksmoke; */
+  
+} 
+
+.well {
+background-color: aliceblue;
+font-family: Georgia, serif;
+font-weight: 90;
+font-size: smaller;
+
+
+}
+
+.panel {
+  background-color: aliceblue;
+  font-family: Georgia, serif;
+  font-weight: 90;
+  
+    }
+
+
+#know {
+font-family: Georgia, serif;
+font-weight: 90;
+font-size: medium;
+background-color: whitesmoke;
+}
+
+#otu {
+font-family: Georgia, serif;
+font-weight: 90;
+font-size: medium;
+background-color: whitesmoke;
+}
+
+#scrub{
+font-family: Georgia, serif;
+font-weight: 90;
+font-size: medium;
+background-color: whitesmoke;
+}
