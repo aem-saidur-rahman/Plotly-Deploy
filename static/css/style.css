@@ -5,7 +5,7 @@ body {
 }
 
 .jumbotron {
-  background-image: url('static/images/lab.jpg');
+  background-image: url('images/Lab.png');
   background-size: 100% 100%;
   opacity: 0.9;
   text-align: center;
